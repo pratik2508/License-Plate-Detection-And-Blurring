@@ -24,7 +24,7 @@ Python 3.7 or later with the following `pip3 install -U -r requirements.txt` pac
 # Inference 
 - Run `detect.py` to apply trained weights to an image, such as `car.jpg` from the `test` folder.
 
-- Link weight  : 
+- Link weight  : https://drive.google.com/open?id=1iLQefXhn8pH-rXNROXgHEPgh6Mo01Euu
 
 
 # Test
