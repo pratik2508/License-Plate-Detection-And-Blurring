@@ -30,7 +30,8 @@ Python 3.7 or later with the following `pip3 install -U -r requirements.txt` pac
 # Test
 - - Use `test.py --weights weights/latest.pt` to test YOLOv3 weights.
 
-# Model has accuracy around 85%-90%  with no to very less false -ve's.  
+# MAP : 87
+- Model has accuracy around 85%-90%  with no to very less false -ve's.  
 
 
 
