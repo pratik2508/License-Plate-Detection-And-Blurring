@@ -1,0 +1,11 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+/home/ceinfo/Downloads/test1/01-04 03.08.49.jpg,-1,{},10,0,"{""name"":""rect"",""x"":256,""y"":467,""width"":44,""height"":67}","{""label"":""asdf\n""}"
+/home/ceinfo/Downloads/test1/01-05 04.50.02.jpg,-1,{},10,1,"{""name"":""rect"",""x"":214,""y"":498,""width"":63,""height"":59}","{""label"":""int""}"
+/home/ceinfo/Downloads/test1/01-05 10.27.00.jpg,-1,{},10,2,"{""name"":""rect"",""x"":236,""y"":515,""width"":81,""height"":54}","{""label"":""""}"
+/home/ceinfo/Downloads/test1/01-08 05.00.41.jpg,-1,{},10,3,"{""name"":""rect"",""x"":228,""y"":480,""width"":93,""height"":67}","{""label"":""""}"
+/home/ceinfo/Downloads/test1/01-08 05.05.52.jpg,-1,{},10,4,"{""name"":""rect"",""x"":267,""y"":481,""width"":26,""height"":28}",{}
+/home/ceinfo/Downloads/test1/01-17 03.11.53.jpg,-1,{},10,5,"{""name"":""rect"",""x"":267,""y"":481,""width"":26,""height"":28}","{""label"":""asdf\n""}"
+/home/ceinfo/Downloads/test1/01-28 10.52.52.jpg,-1,{},10,6,"{""name"":""rect"",""x"":641,""y"":133,""width"":81,""height"":78}","{""label"":""""}"
+/home/ceinfo/Downloads/test1/08-19 03.42.50.jpg,-1,{},10,7,"{""name"":""rect"",""x"":680,""y"":91,""width"":70,""height"":85}","{""label"":""""}"
+/home/ceinfo/Downloads/test1/08-26 03.33.18.jpg,-1,{},10,8,"{""name"":""rect"",""x"":130,""y"":109,""width"":99,""height"":91}","{""label"":""""}"
+/home/ceinfo/Downloads/test1/08-26 03.39.07.jpg,-1,{},10,9,"{""name"":""rect"",""x"":130,""y"":108,""width"":99,""height"":91}","{""label"":""""}"
